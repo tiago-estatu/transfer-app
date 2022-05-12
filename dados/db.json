@@ -1,0 +1,18 @@
+{
+  "transferencias": [
+    {
+      "valor": 150,
+      "destino": "1015-0",
+      "lembrete": "Churras",
+      "data": "2022-05-11T11:05:50.372Z",
+      "id": 1
+    },
+    {
+      "valor": 50,
+      "destino": "1018-5",
+      "lembrete": "Lanche",
+      "data": "2022-05-11T11:06:48.075Z",
+      "id": 2
+    }
+  ]
+}
